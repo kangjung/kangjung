@@ -1,5 +1,8 @@
 ### Hi there 👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kangjung&show_icons=true)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangjung&count_bg=%2348A800&title_bg=%2335375F&icon=&icon_color=%23E0E0E0&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <!--
 **kangjung/kangjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
